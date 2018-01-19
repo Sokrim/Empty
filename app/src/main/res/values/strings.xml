@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">What To Do When You\'re Bored</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_method1">Method1Activity</string>
+
+
+    <!--String for method 1 -->
+    <string name="title_activity_entertaining_yourself_while_traveling">
+        Entertaining Yourself While Traveling
+    </string>
+    <string name="method1_bodyText1">
+        <b>1.\t<i>People-watch</i></b> \n\n\tOne of the best parts of traveling is being in places where there are lots of people to look at.
+        "Whenever you're bored in a busy place )train station, airport, bus depot, cafe, and so on) look around you at the people you're sharing the space with.
+        \n\t\t\t<b>-</b>\tMake up stories about the people you see. That woman wearing the zebra print leggings? She\'s an international spy on her way to a meeting with her superior. She\'s wearing the garish clothes to draw attention away from her face.
+    </string>
+
+    <string name="method1_bodyText2">
+       <b> 2.\t<i>Eavesdrop</i></b>\n\n\t Listen to the conversations going on around you."Try to find the strangest conversations to listen in on and make sure that the people don\'t notice you spying on them."Act like you\'re reading a book or magazine, instead."
+       \n\t\t\t<b>-</b>\tWrite down what you hear and turn it into a short story or a poem.
+      \n\t\t\t<b>-</b>\tIf you\'re traveling with another person, turn it into a game. "See who can overhear the weirdest conversation or sentence.
+    </string>
+
+    <string name="method1_bodyText3">
+      <b>  3.\t<i>Make up a new person</i></b>\n\n\t When you\'re traveling you can be anyone you want to be. Come up with a mildly plausible persona and stick to it while you\'re on the airplane, at the bus depot, waiting for the train, etc. See if you can get people to believe your persona.
+    </string>
+
+    <string name="method1_bodyText4">
+       <b> 4.\t<i>Make up games</i></b>\n\n\t Sometimes this is the only way to keep yourself amused, whether you\'re a child or an adult. You can do the usual \"I Spy\" games, which are especially good for kids in the car. You can also make up your own games, depending on where you are.
+          \n\t\t\t<b>-</b>\tMake up a points system for annoying people. This can help if you\'re stranded somewhere during the holiday rush season. There are always intensely irritating people and turning their annoying habits into a game can make them more bearable. For example: you get +10 points when that guy cuts you off in line, or +5 for the child who screams through the entire plane ride.
+    </string>
+
+    <string name="method1_bodyText5">
+       <b>  5.\t<i>Call or text a friend</i></b>\n\n\t See what everyone else is up to and relay your odd traveling experiences to them. You can brainstorm ideas for ways of filling your time. You\'ll have someone to talk to and you\'ll get to pass the time.
+    </string>
+
+    <!--String for method 2 -->
+    <string name="title_activity_entertainingyourselfoutsidethehouse">
+        Entertaining Yourself Outside The House
+    </string>
+
+    <string name="method2_bodyText1">
+        <b>1.\t<i>Exercise</i></b>\n\n\tA great way to cure boredom is to do some exercise. You\'ll get your endorphins going, which in turn will help you feel better and will make your body happy. Run, bicycle, take a walk, investigate the town or city you live in, yoga, jump rope, hula hoop.
+        \n\t\t\t<b>-</b>\tUse this time to investigate the town or city you live in. You\'ll get exercise, fight your boredom, and maybe find out some secret spots.
+    </string>
+
+     <string name="method2_bodyText2">
+        <b>2.\t<i>Go on an adventure</i></b>\n\n\tGet your car, your bus pass, or your bike and head out into your city or town. Take a bus somewhere you might not normally go, bike to that street that has all the wealthy houses, find a secret park.
+    </string>
+
+     <string name="method2_bodyText3">
+         <b>3.\t<i>Donate to a local food bank</i></b>\n\n\tEspecially if you\'ve used your time to go through your house and get rid of things you don\'t need, you can now donate these to a food bank; things like clothes you don\'t need (but that are in good repair, not stained or ripped), or canned food.
+         \n\t\t\t<b>-</b>\tYou can also donate your time to a food bank, helping to restock and or to serve food if they do that. It\'s a good way to help make a difference and to use time that might otherwise be spent doing nothing.
+    </string>
+
+     <string name="method2_bodyText4">
+         <b>4.\t<i>Spend time at your local animal shelter</i></b>\n\n\tHelp care for the animals, walk the dogs and keep them clean. Animal shelters often need volunteers to help out and it will be a great way to play with animals (especially if you don\'t have any) and you\'ll be doing something useful.
+    </string>
+
+     <string name="method2_bodyText5">
+          <b>5.\t<i>Ask a friend or parent if they need help with anything</i></b>\n\n\tYou don\'t only need to help strangers, you can help out people that you know. Offer to help them garden, or clean their house. This will put your spare time to good use, give you somebody to hang out with, and you\'ll be doing something nice for someone else. Not a bad way to cure your boredom.
+    </string>
+
+    <!--String for method 3 -->
+
+     <string name="title_activity_entertaining_yourself_at_work_or_class">
+        Entertaining_yourself_at_work_or_class
+    </string>
+
+    <string name="method3_bodyText1">
+         <b>1.\t<i>Doodle</i></b>\n\n\tThis is a great way to keep your hands busy while your mind focuses on what the teacher or professor is saying. You can also do this at work, when you\'re thinking about what project you should work on next, or if you\'re just trying to look busy for the boss.
+         \n\t\t\t<b>-</b>\t If you\'re subtle about it you can even have doodling contests with your friend or coworker. Try to out-do one another with fantastic drawings, or add on to one another\'s drawings, to create something really wild.
+    </string>
+
+     <string name="method3_bodyText2">
+          <b>2.\t<i>Clean your computer</i></b>\n\n\tClean the screen, clean between the keys. If it used to be white, do your best to carefully restore your computer to its former clean condition.
+          \n\t\t\t<b>-</b>\tOrganize your computer desktop so you can find things. Put pictures in the labelled picture folders and make sure all your documents are in properly labelled folders.
+    </string>
+
+     <string name="method3_bodyText3">
+           <b>3.\t<i>Read</i></b>\n\n\tReading is fun and you could pick up a book, a magazine, or a newspaper. Reading something helps pass the time by giving you something to keep your brain interested. Some free time is a great time to try something new.
+           \n\t\t\t<b>-</b>\tYou can usually hide a book beneath some textbook in your class or beneath your desk at work. It makes it look like you\'re really studying or paying attention to the material, while actually doing something a lot more fun.
+           \n\t\t\t<b>-</b>\tRead a mystery and try to guess the solution before the detective, or try some fantasy or science fiction. Look into something nonfiction or spiritual, philosophical, paranormal, or even holy topics like Bible, or the Quran.
+           \n\t\t\t<b>-</b>\tCheck out what books you can get from the library and pick them up on your way to or from your work or class. Some libraries even have online databases where you can check out a book without having to leave your house or work!
+    </string>
+
+     <string name="method3_bodyText4">
+       <b>4.\t<i>Go online</i></b>\n\n\tIf you have your computer in front of you, you can use it to go online and surf the internet. Just make sure that you won\'t be caught by your boss or your teacher. You can use this time to amuse yourself or to learn something new.
+       \n\t\t\t<b>-</b>\tGo on something like Craigslist or Ebay and find the weirdest thing you possibly can. Post it to your twitter, Facebook, or Tumblr account.
+       \n\t\t\t<b>-</b>\tGo on Instagram, Facebook, or Vine. Upload photos, share stories, check out other people\'s posts and photos.
+       \n\t\t\t<b>-</b>\tWatch random YouTube videos. Pick comedy ones if you want a lift, choose viral ones for entertainment and to stay trendy.
+       \n\t\t\t<b>-</b>\tUse Pinterest. Choose a topic you like and make a board for it, add pictures you like. Or look at other people\'s pictures.
+    </string>
+
+    <string name="method3_bodyText5">
+       <b>5.\t<i>Chat with a coworker</i></b>\n\n\tSometimes the best way to amuse yourself when you\'re bored is to enter into conversation with someone else. Pick someone you don\'t know that much about and ask them about themselves (where they are from? where they went to school? favorite thing to do outside of work?). You might even make a new friend.
+    </string>
+
+    <!--String for method 4 -->
+    <string name="title_activity_entertaining_yourself_with_friend">
+        Entertaining Yourself With Friend
+    </string>
+
+    <string name="method4_bodyText1">
+        <b>1.\t<i>Compromise</i></b>\n\n\tOkay, so you can\'t agree on anything. Pick one thing you want to do and combine it with something your friend wants to do. Say you want to watch a movie and your friend wants to bake a cake. Bake a red carpet cake with edible movie decorations (if you\'re a really skilled cake baker) and then watch a movie about cakes. Maybe that\'s a bad example, but you get the idea.
+    </string>
+
+    <string name="method4_bodyText2">
+        <b>2.\t<i>Listen to music</i></b>\n\n\tMaybe there\'s something in your favorite song that will inspire you. This may seem like an odd idea, but try it! Try a song that describes something familiar to you, and work from there.
+    </string>
+
+      <string name="method4_bodyText3">
+         <b>3.\t<i>Eat</i></b>\n\n\tThis can turn into a calorie-laden habit, but cook something with your friend. Then, work off the extra calories in a workout. Eating when you\'re bored isn\'t a bad habit if you work it off, especially if you eat healthy food. But if you\'re going to exercise, make sure to hydrate properly before, and you can turn the exercise into a game! Bike-race your friend, or just run and race your friend.
+
+    </string>
+
+      <string name="method4_bodyText4">
+         <b>4.\t<i>Dare</i></b>\n\n\tDon\'t get carried away here. If you\'re in a crowded place, this is perfect. Dare your friend to go up to a stranger and ask if he or she would like your leftover lemonade, for example. If you\'re at school, a perfect way to make lunch more interesting is to dare a couple friends to sit at a different table, with a few or their enemies or the opposite gender, and act natural about it.
+    </string>
+
+      <string name="method4_bodyText5">
+         <b>5.\t<i>Create a dance routine with a friend</i></b>\n\n\tFirst pick a good song, then pick your moves and last, create your costume. Then pick a date to perform your dance routine and practice it daily!
+    </string>
+
+    <!--String for method 5 -->
+
+   <string name="title_activity_to_get_started_busting_through_your_boredom">
+        To Get Started Busting Through Your Boredom
+    </string>
+
+    <string name="method5_bodyText1">
+         <b>1.\t<i>Bake or cook</i></b>\n\n\tThe beauty of baking or cooking is that the act itself helps you pass the time and you get to eat something delicious (one hopes) at the end of it. Dust off your cookbook or look up fantastic recipes online and try one out.
+    </string>
+
+    <string name="method5_bodyText2">
+         <b>2.\t<i>Glam yourself up</i></b>\n\n\tTry out different kinds of make-up styles to see how they look. Go through your clothes and put together outfits that you can wear for the next few days. Match up jewelry with the clothes and make-up and figure out accessories.
+         \n\t\t\t<b>-</b>\tDo your nails. Make funky designs with nail pens or paint each nail a different color.
+    </string>
+
+    <string name="method5_bodyText3">
+         <b>3.\t<i>Watch a movie</i></b>\n\n\tYou can find a movie online, watch a movie that is on TV, or go to a movie store and rent one to watch at home. You could even make a trip of it and go to your local movie theater. Maybe see something you wouldn\'t normally watch like a documentary or a mystery.
+    </string>
+
+    <string name="method5_bodyText4">
+         <b>4.\t<i>Practice for something</i></b>\n\n\tWhen you have nothing better to do, that is the perfect time to work on skills you\'re perfecting. If you play soccer, take a ball out to your backyard or nearby park and practice dribbling or shooting goals. If you play the piano, you can sit down and play a few pieces. You don\'t even have to practice scales, you could try out a favorite piece/song instead.
+    </string>
+
+    <string name="method5_bodyText5">
+         <b>5.\t<i>Clean your room</i></b>\n\n\tMake sure everything is looking nice and tidy. Having a clean room can help you feel accomplished and tidy. A clean room can help give you energy to get over your boredom and do other things.
+         \n\t\t\t<b>-</b>\tOrganize your wardrobe. When you\'re bored is a great time to do tasks you might not normally do, like organizing your wardrobe. Go through your clothes and see what you\'ve outgrown or don\'t wear anymore. You\'ll feel good clearing out space for new things.
+    </string>
+    <string name="title_activity_tell_us_about_yourself">Tell_us_about_yourself</string>
+
+</resources>

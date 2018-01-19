@@ -1,0 +1,183 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/b"
+    android:id="@+id/scrollView"
+    >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+       >
+        <TextView
+            android:id="@+id/welcome_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Welcome!!!"
+            android:textColor="@android:color/black"
+            android:textSize="35sp" />
+
+        <TextView
+            android:id="@+id/method1_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/welcome_text_view"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:text="Method 1 : Entertaining yourself while traveling"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:visibility="invisible"/>
+
+        <Button
+            android:id="@+id/read_button_1"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/method1_text_view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="15dp"
+            android:background="#304FFE"
+            android:onClick="readButton1"
+            android:text="Read"
+            android:textColor="@android:color/white"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/method2_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/read_button_1"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:text="Method 2 : Entertaining yourself outside the house"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:visibility="invisible"/>
+
+        <Button
+            android:id="@+id/read_button_2"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/method2_text_view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="15dp"
+            android:background="#304FFE"
+            android:onClick="readButton2"
+            android:text="Read"
+            android:textColor="@android:color/white"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/method3_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/read_button_2"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:text="Method 3 : Entertaining yourself at work or class"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:visibility="invisible"/>
+
+        <Button
+            android:id="@+id/read_button_3"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/method3_text_view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="15dp"
+            android:background="#304FFE"
+            android:onClick="readButton3"
+            android:text="Read"
+            android:textColor="@android:color/white"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/method4_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/read_button_3"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:text="Method 4 : Entertaining yourself with friend"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:visibility="invisible"/>
+
+
+        <Button
+            android:id="@+id/read_button_4"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/method4_text_view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="15dp"
+            android:background="#304FFE"
+            android:onClick="readButton4"
+            android:text="Read"
+            android:textColor="@android:color/white"
+            android:visibility="invisible"/>
+
+        <TextView
+            android:id="@+id/method5_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/read_button_4"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:text="Method 5 : To get started busting through your boredom!"
+            android:textColor="@android:color/black"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            android:visibility="invisible"/>
+
+        <Button
+            android:id="@+id/read_button_5"
+            android:layout_width="60dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/method5_text_view"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginRight="15dp"
+            android:background="#304FFE"
+            android:onClick="readButton5"
+            android:text="Read"
+            android:textColor="@android:color/white"
+            android:visibility="invisible"
+             />
+
+        <Button
+            android:id="@+id/content_Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="15dp"
+            android:background="#304FFE"
+            android:onClick="seeContent"
+            android:padding="12dp"
+            android:text="See Content"
+            android:layout_below="@+id/read_button_5"
+            android:textColor="@android:color/white" />
+
+    </RelativeLayout>
+
+</ScrollView>
+
